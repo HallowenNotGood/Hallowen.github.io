@@ -1,0 +1,16 @@
+body {
+	background-color: #000;
+}
+
+img {
+	width: 100vh;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.img {
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+}
